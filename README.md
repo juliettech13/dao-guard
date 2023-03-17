@@ -4,7 +4,19 @@ This is a Svelte implementation of a form generator from JSON Schema. It support
 
 JSON Schema is a powerful validation/type definition language for JSON data. See this for more information on [JSON Schema](https://cswr.github.io/JsonSchema/spec/introduction/)
 
-## How to use
+## How to run this repository locally
+
+1. Install packages
+```
+npm install
+```
+
+2. Run local server
+```
+npm run dev
+```
+
+## How to use the Svelte Schema Form
 
 Install with npm
 
